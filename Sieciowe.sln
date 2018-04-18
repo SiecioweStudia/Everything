@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieciowe", "Sieciowe\Sieciowe.csproj", "{76BE2B5C-1974-4ECE-AAAA-D964A072048F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POP3", "POP3\POP3.csproj", "{B5610916-DEA2-4ACE-8A17-F3CC4780A83F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTP", "SMTP\SMTP.csproj", "{DDEB74FF-4A6E-4F87-A4BE-C7C94C9C063D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTP", "FTP\FTP.csproj", "{B27FCF52-757B-4D81-A7B3-AF23B0D2431B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76BE2B5C-1974-4ECE-AAAA-D964A072048F}.Debug|x86.ActiveCfg = Debug|x86
+		{76BE2B5C-1974-4ECE-AAAA-D964A072048F}.Debug|x86.Build.0 = Debug|x86
+		{76BE2B5C-1974-4ECE-AAAA-D964A072048F}.Release|x86.ActiveCfg = Release|x86
+		{76BE2B5C-1974-4ECE-AAAA-D964A072048F}.Release|x86.Build.0 = Release|x86
+		{B5610916-DEA2-4ACE-8A17-F3CC4780A83F}.Debug|x86.ActiveCfg = Debug|x86
+		{B5610916-DEA2-4ACE-8A17-F3CC4780A83F}.Debug|x86.Build.0 = Debug|x86
+		{B5610916-DEA2-4ACE-8A17-F3CC4780A83F}.Release|x86.ActiveCfg = Release|x86
+		{B5610916-DEA2-4ACE-8A17-F3CC4780A83F}.Release|x86.Build.0 = Release|x86
+		{DDEB74FF-4A6E-4F87-A4BE-C7C94C9C063D}.Debug|x86.ActiveCfg = Debug|x86
+		{DDEB74FF-4A6E-4F87-A4BE-C7C94C9C063D}.Debug|x86.Build.0 = Debug|x86
+		{DDEB74FF-4A6E-4F87-A4BE-C7C94C9C063D}.Release|x86.ActiveCfg = Release|x86
+		{DDEB74FF-4A6E-4F87-A4BE-C7C94C9C063D}.Release|x86.Build.0 = Release|x86
+		{B27FCF52-757B-4D81-A7B3-AF23B0D2431B}.Debug|x86.ActiveCfg = Debug|x86
+		{B27FCF52-757B-4D81-A7B3-AF23B0D2431B}.Debug|x86.Build.0 = Debug|x86
+		{B27FCF52-757B-4D81-A7B3-AF23B0D2431B}.Release|x86.ActiveCfg = Release|x86
+		{B27FCF52-757B-4D81-A7B3-AF23B0D2431B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/home/me/Projects/Sieciowe/POP3/bin/Debug/POP3.exe
+/home/me/Projects/Sieciowe/POP3/bin/Debug/POP3.pdb
+/home/me/Projects/Sieciowe/POP3/obj/x86/Debug/POP3.csproj.CoreCompileInputs.cache
+/home/me/Projects/Sieciowe/POP3/obj/x86/Debug/POP3.exe
+/home/me/Projects/Sieciowe/POP3/obj/x86/Debug/POP3.pdb
+/home/me/Projects/Sieciowe/POP3/obj/x86/Debug/POP3.csprojResolveAssemblyReference.cache

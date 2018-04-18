@@ -1,0 +1,5 @@
+/home/me/Projects/Sieciowe/SMTP/obj/x86/Debug/SMTP.csproj.CoreCompileInputs.cache
+/home/me/Projects/Sieciowe/SMTP/bin/Debug/SMTP.exe
+/home/me/Projects/Sieciowe/SMTP/bin/Debug/SMTP.pdb
+/home/me/Projects/Sieciowe/SMTP/obj/x86/Debug/SMTP.exe
+/home/me/Projects/Sieciowe/SMTP/obj/x86/Debug/SMTP.pdb

@@ -1,0 +1,5 @@
+/home/me/Projects/Sieciowe/Sieciowe/bin/Debug/Sieciowe.exe
+/home/me/Projects/Sieciowe/Sieciowe/bin/Debug/Sieciowe.pdb
+/home/me/Projects/Sieciowe/Sieciowe/obj/x86/Debug/Sieciowe.csproj.CoreCompileInputs.cache
+/home/me/Projects/Sieciowe/Sieciowe/obj/x86/Debug/Sieciowe.exe
+/home/me/Projects/Sieciowe/Sieciowe/obj/x86/Debug/Sieciowe.pdb

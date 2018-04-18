@@ -1,0 +1,5 @@
+/home/me/Projects/Sieciowe/FTP/bin/Debug/FTP.exe
+/home/me/Projects/Sieciowe/FTP/bin/Debug/FTP.pdb
+/home/me/Projects/Sieciowe/FTP/obj/x86/Debug/FTP.csproj.CoreCompileInputs.cache
+/home/me/Projects/Sieciowe/FTP/obj/x86/Debug/FTP.exe
+/home/me/Projects/Sieciowe/FTP/obj/x86/Debug/FTP.pdb
